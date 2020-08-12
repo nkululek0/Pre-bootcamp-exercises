@@ -20,4 +20,3 @@
 		
 		console.log(result + ": " + Hour + " " + actualMinutes + ":" + Min);	
 	}
-	time(60);
