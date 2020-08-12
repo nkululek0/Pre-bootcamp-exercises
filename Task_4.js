@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<Html>
-	<head><title>Task 4</title>
-  		<meta charset="utf-8" />
-	</head>
-		<Body>
-<script>
 	function number3(a, b){
 		let total = a + b;
 		let sum = String(total);
@@ -35,6 +28,3 @@
 	}
 	
 	number3(4,3333);
-</script>
-		</Body>
-</Html>
