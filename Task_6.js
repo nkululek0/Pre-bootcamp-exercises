@@ -7,4 +7,3 @@
 			} 
 			console.log(result);
 		}
-		maximum(1,1,13,4,5,77)
