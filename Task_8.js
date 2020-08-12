@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<Html>
-	<head><title>Task 8</title>
-  		<meta charset="utf-8" />
-	</head>
-		<Body>
-<script>
 	function time(hours){
 		let Hour = "Hour";
 		let inputHour = hours / 60;
@@ -25,10 +18,6 @@
 			}
 			else{Min}
 		
-		document.write(result + ": " + Hour + " " + actualMinutes + ":" + Min);	
+		console.log(result + ": " + Hour + " " + actualMinutes + ":" + Min);	
 	}
 	time(60);
-		
-</script>
-		</Body>
-</Html>
