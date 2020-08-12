@@ -6,5 +6,4 @@ function number65(a, b){
 			else{
 				document.write("False");
 			}
-	}
-	number65(62, 4);
+}
