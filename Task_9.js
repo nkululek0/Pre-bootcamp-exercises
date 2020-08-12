@@ -17,4 +17,3 @@
 			console.log(sum);
 			
 	}
-	multiples(100);	
