@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<Html>
-	<head><title>Task 6</title>
-  		<meta charset="utf-8" />
-	</head>
-		<Body>
-<script>
 	function maximum(...numbers){
 		let result = -Infinity;
 			for(let number of numbers){
@@ -15,6 +8,3 @@
 			console.log(result);
 		}
 		maximum(1,1,13,4,5,77)
-</script>
-		</Body>
-</Html>
