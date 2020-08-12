@@ -1,26 +1,13 @@
-<!DOCTYPE HTML>
-<Html>
-	<head><title>Task 7</title>
-  		<meta charset="utf-8" />
-	</head>
-		<Body>
-<script>
 	function farenheitConvertor(temperature){
 		let farenheit = (temperature * 9/5) + 32;
 		let celsiusPlaceHolder = "deg Celsius";
-			document.write(farenheit + " " + celsiusPlaceHolder);
+			console.log(farenheit + " " + celsiusPlaceHolder);
 	}
 	function celsiusConvertor(temperature){
 		let celsius = (temperature - 32)/9*5;
 		let rounded = Math.round(celsius);
 		let farenheitPlaceHolder = "deg Farenheit";
-			document.write(rounded + " " + farenheitPlaceHolder);
+			console.log(rounded + " " + farenheitPlaceHolder);
 	}
 	celsiusConvertor(35)
 	farenheitConvertor(2);
-
-	//farenheit(c * 9/5)+32
-	//celsius(f -32)/9*5
-</script>
-		</Body>
-</Html>
