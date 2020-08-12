@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<Html>
-	<head><title>Task 11</title>
-  		<meta charset="utf-8" />
-	</head>
-		<Body>
-<script>
 	function commonLetters(word1, word2){
 		let sameLetter = [];
 			for(count1 = 0; count1 < word1.length; count1++){
@@ -17,9 +10,6 @@
 				}		
 			}
 			console.log(sameLetter);
-			document.write("Common Letters: " + sameLetter);
+			console.log("Common Letters: " + sameLetter);
 	}
 	commonLetters("pag", "ham");	
-</script>
-		</Body>
-</Html>
