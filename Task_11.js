@@ -9,7 +9,5 @@
 						}
 				}		
 			}
-			console.log(sameLetter);
 			console.log("Common Letters: " + sameLetter);
 	}
-	commonLetters("pag", "ham");	
