@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<Html>
-	<head><title>Task 9</title>
-  		<meta charset="utf-8" />
-	</head>
-		<Body>
-<script>
 	function multiples(number){
 		let sum = 0;
 		let totalMultiples = [];
@@ -25,6 +18,3 @@
 			
 	}
 	multiples(100);	
-</script>
-		</Body>
-</Html>
