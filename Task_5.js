@@ -4,4 +4,3 @@ function triangleArea(side1, side2, side3){
 		let roundedArea = Math.round(area);
 		console.log(roundedArea);
 	}
-	triangleArea(2,4,5);
