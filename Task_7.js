@@ -9,5 +9,3 @@
 		let farenheitPlaceHolder = "deg Farenheit";
 			console.log(rounded + " " + farenheitPlaceHolder);
 	}
-	celsiusConvertor(35)
-	farenheitConvertor(2);
