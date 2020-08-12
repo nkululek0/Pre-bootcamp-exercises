@@ -9,5 +9,4 @@
 						}
 				}		
 			}
-	}
-	vowelReturner("HellEooO");	
+	}	
