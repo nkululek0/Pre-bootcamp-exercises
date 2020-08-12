@@ -1,10 +1,3 @@
-<!DOCTYPE HTML>
-<Html>
-	<head><title>Task 10</title>
-  		<meta charset="utf-8" />
-	</head>
-		<Body>
-<script>
 	function vowelReturner(word){
 		let vowelDefiner = ["A", "a", "E", "e", "I", "i", "O", "o", "U", "u"];
 			for(count = 0; count <= word.length; count++){
@@ -18,6 +11,3 @@
 			}
 	}
 	vowelReturner("HellEooO");	
-</script>
-		</Body>
-</Html>
