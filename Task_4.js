@@ -19,10 +19,10 @@
 			else{ argumentCounter += 0}
 
 			if(sumCounter >= 1 && argumentCounter >= 1){
-				document.write("True");
+				console.log("True");
 			}
 			else{
-				document.write("False");
+				console.log("False");
 			}
 
 	}
