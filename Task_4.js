@@ -7,11 +7,14 @@ function number3(a, b) {
             if (numberIndex == 3) {
                 return true;
             } 
-            else {
-                return false;
+            else if (numberIndex != 3) {
+                sum[count += 0];
             }
         }
     } 
+    else {
+        return false;
+    }
     else {
         return false;
     }
