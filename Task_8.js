@@ -24,6 +24,9 @@ function time(number) {
     function minute() {
         if (number < 60) {
             actualMinutes = number;
+            if(actualMinutes < 1){
+               minString += 's';
+            }
         } 
         else {
             let inputMinutes = number / 60;
